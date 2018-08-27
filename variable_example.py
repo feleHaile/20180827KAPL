@@ -13,7 +13,23 @@ print("wankel rotary engine", result, "engine")
 print(f"wankel rotary engine {result} engine")
 print("wankel rotary engine {} engine".format(result))
 
-result = thing + x
+# result = thing + x
 
-print("result is", result)
+# print("result is", result)
+
+# class = 'Freshman'
+#
+# break = "10 AM"
+#
+
+
+
+
+
+
+
+
+
+
+
 
