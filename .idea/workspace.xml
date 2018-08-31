@@ -5,33 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed78fd7c-88ce-47b7-a1f9-1d3633a46f56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DATA/knights.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DATA/knights.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/combine_two_dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_breakfast_with_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creating_dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary_of_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import_package.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kapl/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kapl/misc/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kapl/misc/kaplutil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_knights_into_dictionary_of_tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regex_syntax" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use_kaplutil1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use_kaplutil2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use_kaplutil3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use_kaplutil4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use_kaplutil5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/using_sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variable_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dates_and_times.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mark_big_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyfind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regex_groups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sys_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/walking_file_trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word_freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_files_and_folders.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,19 +38,19 @@
         <counts>
           <entry key="c" value="1" />
           <entry key="csv" value="2" />
-          <entry key="dat" value="1" />
-          <entry key="py" value="61" />
+          <entry key="dat" value="2" />
+          <entry key="py" value="71" />
           <entry key="regex_syntax" value="1" />
           <entry key="tsv" value="1" />
-          <entry key="txt" value="10" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C++" value="1" />
           <entry key="CSV file" value="2" />
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="61" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Python" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -74,7 +58,7 @@
           <entry key="c" value="60" />
           <entry key="csv" value="4" />
           <entry key="dummy" value="22" />
-          <entry key="py" value="19571" />
+          <entry key="py" value="24097" />
           <entry key="regex_syntax" value="724" />
         </counts>
       </usages-collector>
@@ -83,7 +67,7 @@
           <entry key="C++" value="60" />
           <entry key="CSV file" value="4" />
           <entry key="PLAIN_TEXT" value="746" />
-          <entry key="Python" value="19571" />
+          <entry key="Python" value="24097" />
         </counts>
       </usages-collector>
     </session>
@@ -91,58 +75,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_objects.py">
+        <entry file="file://$PROJECT_DIR$/external_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="222">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py">
+        <entry file="file://$PROJECT_DIR$/working_with_files_and_folders.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-115">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="250">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_group.py">
+        <entry file="file://$PROJECT_DIR$/walking_file_trees.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_special.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_sub.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="55" />
+            <state relative-caret-position="112">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py">
+        <entry file="file://$PROJECT_DIR$/dates_and_times.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="28" />
-              <folding>
-                <element signature="e#736#858#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="174">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -162,15 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wombats.py" />
-        <option value="$PROJECT_DIR$/variable_example.py" />
-        <option value="$PROJECT_DIR$/string_examples.py" />
-        <option value="$PROJECT_DIR$/string_methods_and_operators.py" />
-        <option value="$PROJECT_DIR$/numeric_examples.py" />
-        <option value="$PROJECT_DIR$/converting_types.py" />
-        <option value="$PROJECT_DIR$/print_to_screen.py" />
-        <option value="$PROJECT_DIR$/cmd_line_args.py" />
-        <option value="$PROJECT_DIR$/keyboard_input.py" />
         <option value="$PROJECT_DIR$/c2f.py" />
         <option value="$PROJECT_DIR$/c2f_batch.py" />
         <option value="$PROJECT_DIR$/ANSWERS/string_fun.py" />
@@ -212,12 +172,21 @@
         <option value="$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py" />
         <option value="$PROJECT_DIR$/EXAMPLES/regex_objects.py" />
         <option value="$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py" />
+        <option value="$PROJECT_DIR$/regex_groups.py" />
+        <option value="$PROJECT_DIR$/pyfind.py" />
+        <option value="$PROJECT_DIR$/mark_big_words.py" />
+        <option value="$PROJECT_DIR$/print_numbers.py" />
+        <option value="$PROJECT_DIR$/word_freq.py" />
+        <option value="$PROJECT_DIR$/sys_module.py" />
+        <option value="$PROJECT_DIR$/external_files.py" />
+        <option value="$PROJECT_DIR$/working_with_files_and_folders.py" />
+        <option value="$PROJECT_DIR$/walking_file_trees.py" />
+        <option value="$PROJECT_DIR$/dates_and_times.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="33" />
+    <option name="y" value="43" />
     <option name="width" value="1280" />
     <option name="height" value="745" />
   </component>
@@ -250,7 +219,7 @@
             <path>
               <item name="py3intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="py3intro" type="462c0819:PsiDirectoryNode" />
-              <item name="EXAMPLES" type="462c0819:PsiDirectoryNode" />
+              <item name="DATA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="py3intro" type="b2602c69:ProjectViewProjectNode" />
@@ -305,8 +274,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.regex_sub_callback">
-    <configuration name="regex_finding_matches" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.dates_and_times">
+    <configuration name="dates_and_times" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -314,11 +283,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dates_and_times.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,7 +296,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex_group" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="external_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,11 +304,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/regex_group.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/external_files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,7 +317,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex_objects" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sys_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -356,11 +325,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/regex_objects.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sys_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,7 +338,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex_sub" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="walking_file_trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -377,11 +346,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/regex_sub.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/walking_file_trees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -390,7 +359,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex_sub_callback" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="working_with_files_and_folders" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -398,11 +367,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/working_with_files_and_folders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,19 +381,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.regex_finding_matches" />
-      <item itemvalue="Python.regex_objects" />
-      <item itemvalue="Python.regex_group" />
-      <item itemvalue="Python.regex_sub" />
-      <item itemvalue="Python.regex_sub_callback" />
+      <item itemvalue="Python.sys_module" />
+      <item itemvalue="Python.external_files" />
+      <item itemvalue="Python.working_with_files_and_folders" />
+      <item itemvalue="Python.walking_file_trees" />
+      <item itemvalue="Python.dates_and_times" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.regex_sub_callback" />
-        <item itemvalue="Python.regex_sub" />
-        <item itemvalue="Python.regex_group" />
-        <item itemvalue="Python.regex_objects" />
-        <item itemvalue="Python.regex_finding_matches" />
+        <item itemvalue="Python.dates_and_times" />
+        <item itemvalue="Python.walking_file_trees" />
+        <item itemvalue="Python.working_with_files_and_folders" />
+        <item itemvalue="Python.external_files" />
+        <item itemvalue="Python.sys_module" />
       </list>
     </recent_temporary>
   </component>
@@ -442,11 +411,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="33" width="1280" height="745" extended-state="0" />
+    <frame x="0" y="43" width="1280" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.19301033" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19301033" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -454,7 +423,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32857144" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.45555556" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.43174604" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -465,7 +434,7 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.19301033" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19301033" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -473,7 +442,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32857144" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.14444445" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.1936508" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -487,91 +456,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/if_statement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#290#313#0" expanded="true" />
-            <element signature="e#327#350#0" expanded="true" />
-            <element signature="e#365#388#0" expanded="true" />
-            <element signature="e#403#426#0" expanded="true" />
-            <marker date="1535462116966" expanded="true" signature="313:427" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/while_loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ANSWERS/c2f.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ANSWERS/c2f_batch.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="106" column="27" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struct_example.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuples_and_unpacking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1160">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unpacking_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list_comprehensions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="59" column="52" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
-          <folding>
-            <element signature="e#1008#1060#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generator_expressions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#1008#1036#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sequences.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_enumerate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deleting_values_from_lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -843,31 +727,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_objects.py">
+    <entry file="file://$PROJECT_DIR$/regex_groups.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="403">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="e#571#581#0" expanded="true" />
+            <marker date="1535720393222" expanded="true" signature="579:654" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py">
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_special.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="348">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="e#736#858#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -878,13 +755,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_sub_callback.py">
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_special.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="435">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/regex_objects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyfind.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="34" />
           <folding>
-            <element signature="e#736#858#0" expanded="true" />
+            <element signature="e#22#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mark_big_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <marker date="1535722929184" expanded="true" signature="138:170" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1030" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/print_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/custinfo.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_freq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sys_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/external_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/working_with_files_and_folders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/walking_file_trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dates_and_times.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
